@@ -1,2 +1,5 @@
 # Project-1
-Project 1 files
+This repository includes the files for Project No. 1.
+
+#Repo Structure
+The repository includes the following files:
